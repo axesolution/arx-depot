@@ -17,7 +17,7 @@ Server = https://github.com/axesolution/arx-depot/releases/download/stable
 ```
 
 Empreinte de la clé de signature en service :
-`627D 6307 ACE0 2E79 B3DF  1C86 A0EF 704B BBBC F2FA`
+`627D 6307 ACE0 2E79 B3DF  1C86 A0EF 704B BBCF 2FA4`
 (clé de développement, remplacée avant la version finale ; le paquet
 `arx-keyring` porte la clé en service).
 
